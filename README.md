@@ -9,3 +9,12 @@ A escalada de montanha têm uma ética especial: 100% em móvel. Qualquer via de
 Sobre escalada esportiva, o padrão é bastante seguro: chapeletas e parada dupla, sem lance expo. Com os clube locais responsáveis pela a manutenção. Há também uma modalidade muito interessante: escalada esportiva em móvel, ie, vias de até 30m, com parada dupla em cima, mas protegidas em móvel. Tem de todos os graus, de 3º a 10º. Um ótimo terreno pra treinamento de colocações antes de partir pra vias longas.
 
 Aqui na região de Stavanger, pra escalar esportiva por aqui, qualquer nível de escalador vai encontrar opções. Mas pra fazer montanha, as paredes são íngremes os graus são puxados, é preciso está guiando sólido um 6+ em móvel pra aproveitar a viagem. Mais no centro do país, no Parque Nacional Jotunheim, e ao Norte, Lofoten, Narvik, Tromso, tem montanhas mais “alpinas”, com vias normais mais fáceis, mas com frequência aproximação por geleira. 
+
+<img src="Dale.JPG" alt="Dale" title="Top rope solo no inverno - foto as 2 da tarde, Dale, Stavanger" width="300"/>
+<img src="Dirdalsvegen.jpg" alt="Dirdalsvegen" title="Dirdalsvegen - fantástica parde de 250m com uma excelente seleção de vias em móvel" width="300"/>
+<img src="Dirdalsvegen - Confortably Numb.JPG" alt="Confortably Numb" title="Dirdalsvegen, P3 da via Confortably Numb" width="300"/>
+<img src="Heskestad Pillaren - Sleepwalk Crack.jpg" alt="Heskestad" title="Segunda enfiada da via Sleepwalk Crack, Heskestad Pillaren" width="300"/>
+<img src="Salmonsknuten.JPG" alt="Salmonsknuten" title="Salmonsknuten - via longa, alpina e bem acessível" width="300"/>
+<img src="Skeisfjell.JPG" alt="Skeisfjell" title="Skeisfjell" width="300"/>
+<img src="Stetinden.jpg" alt="Stetinden" title="Stetinden" width="300"/>
+<img src="Trellskår - Vått fall.jpg" alt="Trellskår" title="Trellskår - nome da via: Queda Molhada ;)" width="300"/>
