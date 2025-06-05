@@ -3,7 +3,7 @@
 <p>
     <img src="Dirdalsvegen.jpg" alt="Dirdalsvegen" title="Dirdalsvegen - fantástica parde de 250m com uma excelente seleção de vias em móvel" width="500"/>
     <em>Dirdalsvegen - fantástica parde de 250m com uma excelente seleção de vias em móvel</em>
-    <a href=https://brattelinjer.no/sector/3160>Croqui</a>
+    <a href=https://brattelinjer.no/sector/3160 target="_blank">Croqui</a>
 </p>
 
 
@@ -12,7 +12,7 @@ A temporada de escalada em rocha na Noruega é da primavera, até cedo no outono
 <p>
 <img src="Dale.JPG" alt="Dale" title="Top rope solo no inverno - foto as 2 da tarde, Dale, Stavanger" width="300"/>
 <em>Top rope solo no inverno - foto as 2 da tarde, Dale, 15min de Stavanger</em>
-    <a href=https://brattelinjer.no/sector/2862/20259>Croqui</a>
+    <a href=https://brattelinjer.no/sector/2862/20259 target="_blank">Croqui</a>
 </p>
 
 A maior parte da escalada aqui é em granito. O país inteiro tem um potencial enorme pra novas vias, tanto esportiva quanto de montanha.
@@ -23,13 +23,13 @@ A escalada de montanha têm uma ética especial: 100% em móvel. Qualquer via de
 <p>
 <img src="Heskestad Pillaren - Sleepwalk Crack.jpg" alt="Heskestad" title="Segunda enfiada da via Sleepwalk Crack, Heskestad Pillaren" width="300"/>
 <em>Segunda enfiada da via Sleepwalk Crack, Heskestad Pillaren</em>
-    <a href=https://brattelinjer.no/problem/14610>Croqui</a>
+    <a href=https://brattelinjer.no/problem/14610 target="_blank">Croqui</a>
 </p>
 
 <p>
 <img src="Stetinden.jpg" alt="Stetinden" title="Stetinden" width="300"/>
 <em>Stetinden, via Normal - Narvik no norte da Noruega</em>
-    <a href=http://www.stetind.nu/uploads/6/1/8/8/6188415/stetind_sydpillaren.pdf>Croqui</a>
+    <a href=http://www.stetind.nu/uploads/6/1/8/8/6188415/stetind_sydpillaren.pdf target="_blank">Croqui</a>
 </p>
 
 
@@ -38,7 +38,7 @@ Sobre escalada esportiva, o padrão é bastante seguro: chapeletas e parada dupl
 <p>
 <img src="Trellskår - Vått fall.jpg" alt="Trellskår" title="Trellskår - nome da via: Queda Molhada ;)" width="300"/>
 <em>Trellskår" title="Trellskår - nome da via: Queda Molhada ;)</em>
-    <a href=https://brattelinjer.no/problem/5725>Croqui</a>
+    <a href=https://brattelinjer.no/problem/5725 target="_blank">Croqui</a>
 </p>
 
 
@@ -47,7 +47,7 @@ Há também uma modalidade muito interessante: escalada esportiva em móvel, ie,
 <p>
 <img src="Salmonsknuten.JPG" alt="Salmonsknuten" title="Salmonsknuten - via longa, alpina e bem acessível" width="300"/>
 <em>Salmonsknuten - via longa, montanha alpina e bem acessível</em>
-    <a href=https://brattelinjer.no/problem/11482>Croqui</a>
+    <a href=https://brattelinjer.no/problem/11482 target="_blank">Croqui</a>
 </p>
 
 
@@ -56,13 +56,13 @@ Aqui na região de Stavanger, pra escalar esportiva por aqui, qualquer nível de
 <p>
 <img src="Dirdalsvegen - Confortably Numb.JPG" alt="Confortably Numb" title="Dirdalsvegen, P3 da via Confortably Numb" width="300"/>
 <em>Dirdalsvegen, P3 da via Comfortably Numb</em>
-    <a href=https://brattelinjer.no/problem/6682>Croqui</a>
+    <a href=https://brattelinjer.no/problem/6682 target="_blank">Croqui</a>
 </p>
 
 <p>
 <img src="Skeisfjell.JPG" alt="Skeisfjell" title="Skeisfjell" width="300"/>
 <em>Skeisfjell - montanha com várias vias acessíveis e bem protegidas, exceto a primeira enfiada ;)</em>
-<a href=https://brattelinjer.no/problem/12153>Croqui</a>
+<a href=https://brattelinjer.no/problem/12153 target="_blank">Croqui</a>
 </p>
 
 
