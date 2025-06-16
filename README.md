@@ -51,7 +51,14 @@ Há também uma modalidade muito interessante: escalada esportiva em móvel, ie,
 </p>
 
 
-Aqui na região de Stavanger, pra escalar esportiva por aqui, qualquer nível de escalador vai encontrar opções. Mas pra fazer montanha, as paredes são íngremes os graus são puxados, é preciso está guiando sólido um 6+ em móvel pra aproveitar a viagem. Mais no centro do país, no Parque Nacional Jotunheim, e ao Norte, Lofoten, Narvik, Tromso, tem montanhas mais “alpinas”, com vias normais mais fáceis, mas com frequência aproximação por geleira. 
+Aqui na região de Stavanger, pra escalar esportiva, qualquer nível de escalador vai encontrar opções. Mas pra fazer montanha, as paredes são íngremes e os graus são puxados, é preciso estar guiando sólido um 6+ em móvel pra aproveitar a viagem. Mais no centro do país, no Parque Nacional Jotunheim, e ao Norte, Lofoten, Narvik, Tromso, tem montanhas mais “alpinas”, com vias normais mais acessíveis, mas com frequência a aproximação é por geleira. 
+
+--- edit ---
+Uma surpresa que tive escalando aqui é que a roupa é parte do equipamento *técnico* . O tempo é frio e imprevisível, tomar vento frio ou chuva na parede sem ter a roupa certa é perigoso, além de dar aquela pressão adicional na escalada em montanha. 
+
+Era isso, sendo breve. Tem muito coisa aqui, escalada, caminhada, esqui... não é a toa que a Noruega se auto-etitula o Parque de Diversões do Norte pra montanhistas. Se alguém tiver algum plano de vir escalar por aqui, entre em contato. Mas preciso fazer uma nota: aqui chove. Chove muito. Há janelas de tempo fantásticas que vêm quando não se espera, e vão embora sem avisar. A melhor solução é claro é morar aqui e quando fizer tempo bom, tocar um f*d4-se no trabalho e ir escalar =D Pra viagens, sugiro de última hora, pra diminuir a chance de tomar só chuva chegando aqui, ou ter caminhadas como plano B, e não esquecer lã e gore-tex ;) 
+
+--- edit ---
 
 <p>
 <img src="Dirdalsvegen - Confortably Numb.JPG" alt="Confortably Numb" title="Dirdalsvegen, P3 da via Confortably Numb" width="300"/>
